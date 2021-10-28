@@ -15,3 +15,5 @@ $ python3 approximater data.csv -p
 `-p` is plot option.
 
 note : x data scale is changed to pico unit ( multiply 1e12 ) 
+
+![](image/approximater.png)
